@@ -1,6 +1,5 @@
 #!/bin/python
 
-from ast import While
 import time as t
 
 
